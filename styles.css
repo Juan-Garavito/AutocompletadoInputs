@@ -17,6 +17,10 @@
 .contenedor_input{
     height: 50%;
     width: 60%;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 1vh;
+    background: rgba(225, 34, 215, 0.413);
 }
 
 .inputs{
